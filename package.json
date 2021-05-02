@@ -1,0 +1,14 @@
+{
+  "name": "easyshoping_webapi_cw",
+  "version": "1.0.0",
+  "description": "NIBMCW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NIBM192pBatch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
